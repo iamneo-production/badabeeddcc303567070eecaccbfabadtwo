@@ -1,0 +1,3 @@
+2023-08-07 08:10:19.692 [main] INFO  utils.LoggerHandler - Searched for Razor
+2023-08-07 08:10:20.143 [main] INFO  utils.LoggerHandler - Got the first result
+2023-08-07 08:10:24.261 [main] INFO  utils.LoggerHandler - Hovered
